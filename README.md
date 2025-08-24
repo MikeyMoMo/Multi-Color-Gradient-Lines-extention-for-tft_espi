@@ -11,6 +11,8 @@ The reason I wrote it as two routines is that I thought that drawMultiBlendLine2
 
 You can target either the tft layer or any sprite you created with tft_espi (the GREAT graphics handling set of routines from Bodmer).  It gives some color and sophistication to your projects.
 
+I will have the sprite version soon.  I managed to forget to step the version and I really screwed it up.  Going back to a previous and bringing it forward again.  It was not midnight night and my brain was not working!
+
 Enjoy,
 Mikey the Midnight Coder
 
